@@ -25,7 +25,7 @@ step 7.Compare the graphs and hence we obtained the linear regression for the gi
 step 8.stop
 
 ## Program:
-
+```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 
@@ -76,7 +76,7 @@ mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
-
+```
 
 ## Output:
 ## DataSet:
