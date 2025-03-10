@@ -28,10 +28,6 @@ step 8.stop
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-
-Developed by: RAGALA SAI VIVEK
-
-RegisterNumber: 212223230163  
 */
 
 import pandas as pd
@@ -80,19 +76,25 @@ print("RMSE= ",rmse)
 
 ## Output:
 ## DataSet:
-![image](https://github.com/user-attachments/assets/5ff33b39-210d-4766-b3aa-5e3473dff374)
+![362353854-5ff33b39-210d-4766-b3aa-5e3473dff374](https://github.com/user-attachments/assets/ba64723f-c81f-4b65-85ad-cd8890219896)
+
 ## Hard Values:
-![image](https://github.com/user-attachments/assets/f501445a-e9c4-432b-af9b-30873f36fec3)
+![362354098-f501445a-e9c4-432b-af9b-30873f36fec3](https://github.com/user-attachments/assets/891b8a6c-0abd-4889-80a0-1e334f83dbb3)
+
 ## Tail Values:
-![image](https://github.com/user-attachments/assets/2141027a-19e3-4dba-9421-3484bef1ac9d)
+![362354261-2141027a-19e3-4dba-9421-3484bef1ac9d](https://github.com/user-attachments/assets/e4d8daaa-0a1c-4173-a55e-0d665c43adaf)
+
 ## X and Y Values:
-![image](https://github.com/user-attachments/assets/6effc881-f9fc-42bf-ade0-b3c2ca303b26)
+![362354656-6effc881-f9fc-42bf-ade0-b3c2ca303b26](https://github.com/user-attachments/assets/c56ab738-14e4-4d16-a23f-7e93b2f16942)
+
 ## Prediction of X and Y:
-![image](https://github.com/user-attachments/assets/66cb9040-9730-4a70-ac94-21303b0d9e78)
+![362355062-66cb9040-9730-4a70-ac94-21303b0d9e78](https://github.com/user-attachments/assets/9e9e1051-b4d0-415a-9c79-5682e58d6ce2)
+
 ## MSE, MAE and RMSE:
-![image](https://github.com/user-attachments/assets/bc9e53aa-29ae-463c-a750-7ebc8c12592a)
+![362355277-bc9e53aa-29ae-463c-a750-7ebc8c12592a](https://github.com/user-attachments/assets/ce607723-b64e-4846-a999-413f5f2460e3)
+
 ## Training Set:
-![image](https://github.com/user-attachments/assets/eae8ee8f-f4bc-466a-a4f1-b7d464efe8e0)
-![image](https://github.com/user-attachments/assets/185ead62-081f-4570-a47f-1ab80015077e)
+![362355700-eae8ee8f-f4bc-466a-a4f1-b7d464efe8e0](https://github.com/user-attachments/assets/e4c944fe-19f0-4535-9bee-b1bfbe9da3cd)
+
 ## Result: 
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
